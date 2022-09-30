@@ -3,7 +3,7 @@
 ## ISTVS2022
 
 * [ISTVS2022 Paper Abstracts Archive](README.md)
-  * [0303 Composite Beam Tests with Closed Cell Polyurethane and Aluminum Foam](istvs2022/istvs2022-paper-abstracts-archive/0303-composite-beam-tests-with-closed-cell-polyurethane-and-aluminum-foam.md)
+  * [0303 |  Composite Beam Tests with Closed Cell Polyurethane and Aluminum Foam](istvs2022/istvs2022-paper-abstracts-archive/0303-or-composite-beam-tests-with-closed-cell-polyurethane-and-aluminum-foam.md)
   * [0356 Design and Simulation Analysis of Intelligent Suspension for Manned Lunar Rover](istvs2022/istvs2022-paper-abstracts-archive/0356-design-and-simulation-analysis-of-intelligent-suspension-for-manned-lunar-rover.md)
   * [0861 Review on the Reconfigurable Wheel-Tracked System](istvs2022/istvs2022-paper-abstracts-archive/0861-review-on-the-reconfigurable-wheel-tracked-system.md)
   * [0963 A Wheel and Vehicle Mobility Index Based on Traction and Velocity for Optimization of Mobility](istvs2022/istvs2022-paper-abstracts-archive/0963-a-wheel-and-vehicle-mobility-index-based-on-traction-and-velocity-for-optimization-of-mobility.md)
