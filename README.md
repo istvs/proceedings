@@ -1,2 +1,2 @@
-# Proceedings
+# ISTVS2022 Papers
 

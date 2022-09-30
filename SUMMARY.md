@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Proceedings](README.md)
+* [ISTVS2022 Papers](README.md)
 
 ## Group 1
 
